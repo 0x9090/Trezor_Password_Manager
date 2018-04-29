@@ -2,7 +2,7 @@
 
 This is a deconstruction of the Trezor Password Manager Chrome Extension - uploaded for archival purposes. This is simply an un-zip'ing of the freely avaliable .crx Chrome extension, uploaded to GitHub.
 
-All credit for this code goes to Satoshi Labs: https://satoshilabs.com/
+I make no claims to this code. All credit for this code goes to Satoshi Labs: https://satoshilabs.com/
 
 The official extension should be downloaded from the Chrome App Store here: https://chrome.google.com/webstore/detail/trezor-password-manager/imloifkgjagghnncjkhggdhalmcnfklk
 
